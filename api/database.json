@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "name": "Nissan skyline 34",
+      "description": "asdasdasdasdxasdadasdasda ead",
+      "movieGenre": "Drama",
+      "creator": "arash.panahi2002.ap@gmail.com",
+      "releaseDate": "2022-10-13T20:00:57.324Z",
+      "createDate": "Oct 13 , 2022",
+      "id": 3
+    },
+    {
+      "name": "Bnr 34 gt",
+      "description": "agsbsdv",
+      "movieGenre": "Drama",
+      "creator": "a.b@gmail.com",
+      "releaseDate": "2022-10-26T20:30:00.000Z",
+      "createDate": "Oct 14 , 2022",
+      "id": 4
+    }
+  ]
+}
